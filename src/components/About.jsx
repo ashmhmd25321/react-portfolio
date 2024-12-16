@@ -3,7 +3,7 @@ import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 
 const About = () => {
-    const cvLink = "https://drive.google.com/uc?export=download&id=1VEWgAnqUxg2s9C_YET-s30bx55PPyQym";
+    const cvLink = "https://drive.google.com/file/d/1a22khnY8Hd1o5crvkt0Jm9LVVETYcvcm/view?usp=sharing";
 
     return (
         <div className='border-b border-neutral-900 pb-10'>
